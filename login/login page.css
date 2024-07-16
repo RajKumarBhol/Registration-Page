@@ -82,21 +82,27 @@ h2{
     border-bottom-right-radius: 5px;
     padding-top: 3px;
 }
+
 #choice:hover{
     cursor: pointer;
 }
+
 #login:hover{
     cursor: pointer;
 }
+
 .form_class_1 a{
     text-decoration: none;
 }
+
 .form_class_2 a{
     text-decoration: none;
 }
+
 #log{
     text-decoration: none;
 }
+
 #login1{
     text-decoration: none;
     margin-bottom: 35px;
